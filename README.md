@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.7-blue.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/CliveMlt/Python-Fitness-Calculators?color=green&logoColor=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/CliveMlt/Python-Fitness-Calculators?logoColor=green)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
