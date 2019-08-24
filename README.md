@@ -56,11 +56,12 @@
 
 
 
-
 <br>
-## Fitness Calculator v2
+
+## Fitness Calculator v2.exe
 The python file was converted to .exe using pyinstaller
 
 ```
 pyinstaller -y -F -i "ICON-PATH/fitness_Zpl_icon.ico"  "PYTHON-PATH/Fitness Calculator v2.py"
 ```
+
