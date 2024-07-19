@@ -12,7 +12,7 @@
 3. Waist to Height Ratio
 4. VO² MAX
 5. VO² MAX Version 2
-6. One Repetition Maximun
+6. One Repetition Maximum
 7. Daily Calorie Intake
 
 <br>
